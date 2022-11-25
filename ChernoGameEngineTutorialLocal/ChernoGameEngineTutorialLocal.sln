@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChernoGameEngineTutorialLocal", "ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal.vcxproj", "{AA28A0C5-C2BC-43B9-85E4-821AB38AE5BD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{0098D626-7E7E-469C-A1EE-A6A6C1B0AB13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA28A0C5-C2BC-43B9-85E4-821AB38AE5BD}.Debug|x64.ActiveCfg = Debug|x64
+		{AA28A0C5-C2BC-43B9-85E4-821AB38AE5BD}.Debug|x64.Build.0 = Debug|x64
+		{AA28A0C5-C2BC-43B9-85E4-821AB38AE5BD}.Release|x64.ActiveCfg = Release|x64
+		{AA28A0C5-C2BC-43B9-85E4-821AB38AE5BD}.Release|x64.Build.0 = Release|x64
+		{0098D626-7E7E-469C-A1EE-A6A6C1B0AB13}.Debug|x64.ActiveCfg = Debug|x64
+		{0098D626-7E7E-469C-A1EE-A6A6C1B0AB13}.Debug|x64.Build.0 = Debug|x64
+		{0098D626-7E7E-469C-A1EE-A6A6C1B0AB13}.Release|x64.ActiveCfg = Release|x64
+		{0098D626-7E7E-469C-A1EE-A6A6C1B0AB13}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D91FA6C-3A46-47FF-B947-9EBCC72D6F7A}
+	EndGlobalSection
+EndGlobal

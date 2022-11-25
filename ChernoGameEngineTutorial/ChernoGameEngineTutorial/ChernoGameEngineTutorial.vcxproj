@@ -22,8 +22,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{34a2c4ac-92de-41cf-8dc3-3bf0e7297f2b}</ProjectGuid>
-    <RootNamespace>TheChernoGameEngineTutorial</RootNamespace>
+    <ProjectGuid>{534334e2-00d0-4969-99e1-b2cabe4d106f}</ProjectGuid>
+    <RootNamespace>ChernoGameEngineTutorial</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

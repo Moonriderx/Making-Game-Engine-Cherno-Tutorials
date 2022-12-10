@@ -1,0 +1,3 @@
+[submodule "ChernoGameEngineTutorialLocal/ChernoGameEngineTutorialLocal/vendor/spdlog"]
+	path = ChernoGameEngineTutorialLocal/ChernoGameEngineTutorialLocal/vendor/spdlog
+	url = https://github.com/gabime/spdlog

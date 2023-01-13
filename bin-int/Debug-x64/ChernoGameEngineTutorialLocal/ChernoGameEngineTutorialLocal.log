@@ -1,3 +1,4 @@
-﻿  Application.cpp
-     Creating library C:\Lubo-Working-Laptop\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal\bin\Debug-x64\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal.lib and object C:\Lubo-Working-Laptop\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal\bin\Debug-x64\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal.exp
-  ChernoGameEngineTutorialLocal.vcxproj -> C:\Lubo-Working-Laptop\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal\bin\Debug-x64\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal.dll
+﻿  Log.cpp
+C:\Lubo-Working-Laptop\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal\src\CoreLibrary\Log.h(5,10): fatal error C1083: Cannot open include file: 'spdlog/spdlog.h': No such file or directory
+  Application.cpp
+  Generating Code...

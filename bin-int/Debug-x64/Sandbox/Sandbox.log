@@ -1,2 +1,3 @@
 ﻿  SandboxApp.cpp
-  Sandbox.vcxproj -> C:\Lubo-Working-Laptop\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal\bin\Debug-x64\Sandbox\Sandbox.exe
+C:\Lubo-Working-Laptop\ChernoGameEngineTutorialLocal\Sandbox\src\SandboxApp.cpp(17,5): error C2731: 'main': function cannot be overloaded
+C:\Lubo-Working-Laptop\ChernoGameEngineTutorialLocal\Sandbox\src\SandboxApp.cpp(17): message : see declaration of 'main'

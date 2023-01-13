@@ -9,5 +9,3 @@ C:\Lubo-Working-Laptop\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLoc
 C:\Lubo-Working-Laptop\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal\src\CoreLibrary\Log.h(20): message : see declaration of 'Hazel::Log::s_ClientLogger'
 C:\Lubo-Working-Laptop\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal\src\CoreLibrary\Log.cpp(6,51): error C2761: 'std::shared_ptr<spdlog::logger> Hazel::Log::s_CoreLogger': redeclaration of member is not allowed
 C:\Lubo-Working-Laptop\ChernoGameEngineTutorialLocal\ChernoGameEngineTutorialLocal\src\CoreLibrary\Log.cpp(7,53): error C2761: 'std::shared_ptr<spdlog::logger> Hazel::Log::s_ClientLogger': redeclaration of member is not allowed
-  Application.cpp
-  Generating Code...
